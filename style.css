@@ -1,0 +1,20 @@
+
+.square{
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+}
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 380px;
+    height: 307px;
+}
+
+.tournesol{
+    background-image: url(/img/Tournesol.jpg);
+    background-size: cover;
+}
